@@ -1,0 +1,22 @@
+# Ignore Neovim swap files
+*.swp
+*.swo
+
+# Ignore editor backup files
+*~
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (if you are using one)
+env/
+venv/
+
+# Ignore MacOS-specific files
+.DS_Store
+
+# Ignore temporary files
+*.log
+*.bak
+*.tmp
