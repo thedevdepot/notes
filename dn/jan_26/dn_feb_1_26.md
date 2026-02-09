@@ -24,7 +24,7 @@ int s0/0/0
 ip add 192.168.12.2 255.255.255.252
 
 
-!(ccna_lab)[pt_feb_1.png]
+![ccna_lab](pt_feb_1.png)
 
 
 
